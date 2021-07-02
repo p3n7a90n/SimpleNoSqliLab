@@ -6,7 +6,7 @@
 ## Run the below commands to get Started after cloning the repo
 ```
 npm install
-npm start
+node server.js
 ```
 Server will start listening on port 8080.   
 MongoDb Instance Url is defined in dbconfig File.
